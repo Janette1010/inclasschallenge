@@ -24,12 +24,8 @@ countLetters('Hello my name is John', 'i') returns 1
 countLetters('Hello my name is John', 'h') returns 2
 countLetters('We love this city a lot, sometimes', 'e') returns 4
  */
-const user = (name, name2) => {
-    console.log(`My name is ${name}`);
-    console.log(`my name is ${name2}`);
-};
-user("janette", "Janette");
 
-for (user) {
-    if (name) 
-}
+//im googling but tbh doesnt make sense to me so i'll leave it at this ... 
+const count = (str, find) => (str.split(find).length - 1;
+
+count("i", "a");
